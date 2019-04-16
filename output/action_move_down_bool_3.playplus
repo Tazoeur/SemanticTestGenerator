@@ -1,0 +1,17 @@
+/*
+    My comments
+*/
+
+#import "world.map"
+
+bool b;
+int i;
+
+void main(){
+    b = 'a';
+    down(b);
+
+    dig();
+
+    return void;
+}

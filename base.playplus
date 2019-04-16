@@ -1,0 +1,17 @@
+/*
+    My comments
+*/
+
+#import "world.map"
+
+__TYPE__ b;
+int i;
+
+void main(){
+    b = __VALUE__;
+    __ACTION__(b);
+
+    dig();
+
+    return void;
+}
